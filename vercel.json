@@ -49,10 +49,6 @@
           "value": "SAMEORIGIN"
         },
         {
-          "key": "X-XSS-Protection",
-          "value": "1; mode=block"
-        },
-        {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
         }
@@ -68,10 +64,5 @@
       "source": "/admin/",
       "destination": "/admin/index.html"
     }
-  ],
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  ]
 }
