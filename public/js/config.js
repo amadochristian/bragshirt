@@ -52,8 +52,8 @@ export const CONFIG = {
   resendFrom: "BragShirt <noreply@bragshirt.com>",
 
   // 🗄️ SUPABASE — ALTERAR AQUI
-  supabaseUrl: "https://emtbkpwdhzjvewokujie.supabase.co",          // ⚠️ ALTERAR AQUI
-  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtdGJrcHdkaHpqdmV3b2t1amllIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5ODEwNzIsImV4cCI6MjA5MjU1NzA3Mn0.RgF9-ZC8tudyX6bMKsnKBesNw5R-BX0hG0NIFl6kuSE", // ⚠️ ALTERAR AQUI
+  supabaseUrl: "https://xxxx.supabase.co",          // ⚠️ ALTERAR AQUI
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxx", // ⚠️ ALTERAR AQUI
 
   // 🔐 ADMINS — ALTERAR AQUI
   adminEmails: [
