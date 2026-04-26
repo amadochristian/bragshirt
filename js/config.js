@@ -40,7 +40,7 @@ export const CONFIG = {
 
   // ——— 🔐 ADMINS — e-mails com acesso ao painel ————————————
   adminEmails: [
-    "seu@email.com",   // ← troque pelo seu e-mail
+    "christian.amado97@gmail.com",   // ← troque pelo seu e-mail
   ],
 
   // ——— 📞 CONTATO ——————————————————————————————————————————
