@@ -1,29 +1,16 @@
-# Dependencias
+# Dependências
 node_modules/
-.npm
 
-# Variaveis de ambiente — NUNCA commitar!
+# Variáveis de ambiente — NUNCA commitar
 .env
 .env.local
 .env.production
-.env.development
-
-# Vercel
-.vercel
-.output
 
 # Editor
+.DS_Store
 .vscode/
 .idea/
 *.swp
-*.swo
-.DS_Store
-Thumbs.db
 
 # Logs
 *.log
-npm-debug.log*
-
-# Build
-dist/
-build/
