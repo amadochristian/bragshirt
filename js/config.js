@@ -34,9 +34,9 @@ export const CONFIG = {
   // 1. Acesse: https://supabase.com → seu projeto
   // 2. Vá em: Settings → API
   // 3. Copie "Project URL" abaixo:
-  supabaseUrl: "https://COLE_SUA_URL_AQUI.supabase.co",
+  supabaseUrl: "https://emtbkpwdhzjvewokujie.supabase.co",
   // 4. Copie "anon public" abaixo:
-  supabaseAnonKey: "COLE_SUA_ANON_KEY_AQUI",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtdGJrcHdkaHpqdmV3b2t1amllIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5ODEwNzIsImV4cCI6MjA5MjU1NzA3Mn0.RgF9-ZC8tudyX6bMKsnKBesNw5R-BX0hG0NIFl6kuSE",
 
   // ——— 🔐 ADMINS — e-mails com acesso ao painel ————————————
   adminEmails: [
